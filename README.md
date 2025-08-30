@@ -15,5 +15,6 @@ PM> Add-Migration AddEmail
 
 ### From Existing DB -Create class file
 ```
-Scaffold-DbContext "Data Source=server;Database=ContosoPizza;User ID=sa;Password=password;Encrypt=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models
+Scaffold-DbContext "Data Source=Server;Database=ContosoPizza;User ID=sa;Password=password;Encrypt=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models/Generated -Contextnamespace ContosoPizza.Data -Namespace ContosoPizza.Models
+
 ```
