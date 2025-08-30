@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\data\\contosopizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\data\\contosopizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\migrations\\20250830112103_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\migrations\\20250830112103_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\data\\contosopizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|solutionrelative:contosopizza\\data\\contosopizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB893F21-B2B1-46A9-8686-55295D552ED9}|ContosoPizza\\ContosoPizza.csproj|d:\\github\\contosopizza\\contosopizzaapp\\contosopizza\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +54,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250830112103_InitialCreate.cs",
-              "DocumentMoniker": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Migrations\\20250830112103_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\20250830112103_InitialCreate.cs",
-              "ToolTip": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Migrations\\20250830112103_InitialCreate.cs",
-              "RelativeToolTip": "ContosoPizza\\Migrations\\20250830112103_InitialCreate.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwAsAAABFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Program.cs",
+              "ToolTip": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Program.cs",
+              "RelativeToolTip": "ContosoPizza\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T11:21:04.149Z",
+              "WhenOpened": "2025-08-30T12:00:09.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ContosoPizzaContext.cs",
               "DocumentMoniker": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Data\\ContosoPizzaContext.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Data\\ContosoPizzaContext.cs",
               "ToolTip": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Data\\ContosoPizzaContext.cs",
               "RelativeToolTip": "ContosoPizza\\Data\\ContosoPizzaContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T11:13:34.162Z",
               "EditorCaption": ""
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Models\\Order.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\GitHub\\ContosoPizza\\ContosoPizzaApp\\ContosoPizza\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "ContosoPizza\\Models\\Customer.cs",
